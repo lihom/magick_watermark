@@ -1,0 +1,5 @@
+input/*
+!input/index.html
+!input/image.jpg
+output/*
+!output/index.html
